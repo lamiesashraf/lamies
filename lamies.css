@@ -1,0 +1,141 @@
+section{
+    display: flex;
+}
+.mid{
+    list-style: none;
+    display: flex;
+    margin-left:  180px;
+
+}
+ .mid li{
+ padding-left: 50px;
+ justify-content: space-between;
+  
+}
+ .right {
+    list-style: none;
+     align-items: start;
+ }
+
+ .leftt{
+    list-style: none;
+    margin-left:300px;
+ 
+ }
+ .leftt li button{
+   border: none ;
+   border-radius: 5px;
+    color: white;
+    background-color: black;
+ }
+ .sky img{
+    margin-top: 30px;
+    width: 800px;
+    height: 300px;
+  border-radius: 20px;
+  position: relative;
+   left: 250px;
+ }
+ .writting{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+    color:white;
+    padding-bottom: 12px;
+     
+ }
+ .mael{
+    font-style: italic;
+
+ }
+ .leftside img{
+    width: 400px;
+    height: 150px;
+    border-radius: 20px;
+    position: relative;
+    right: 120px;
+     top: 100px;
+ }
+ .power {
+    position: relative;
+    left: 650px;
+
+ }
+
+ .power a i{
+    color: black;
+    position: relative;
+    right: 40px;
+    top: 20px;
+ }
+ .stat{
+ position: relative;
+ top: 40px;
+ right: 150px;
+ }
+ .stat   h1{
+    font-style: italic;
+ }
+
+.stat h1 p{
+  position: relative;
+  bottom: 15px;
+  left: 50px;
+  font-style: italic;
+}
+.t{
+    width: 420px;
+    position: relative;
+    right: 60px;
+}
+.od   button {
+    background-color: black;
+  width: 150px;
+  height: 25px;
+  border: none;
+  border-radius: 5px;
+    color: white;
+    position: relative;
+    top: 270px;
+    right: 530px;
+    font-size: 15px;
+     
+}
+.rightside img{
+    width: 400px;
+    height: 150px;
+    border-radius: 20px;
+    position: relative;
+    left: 1100px;
+     top: 100px;
+}
+.kitchen img{
+    margin-top: 200px;
+    width: 800px;
+    height: 300px;
+  border-radius: 20px;
+  position: relative;
+   left: 250px;
+}
+.text{
+    position:  relative;
+    bottom: 300px;
+    left: 300px;
+    color:white;
+    padding-bottom: 12px;
+}
+.text p {
+    width: 380px;
+}
+.end{
+    width: 150px;
+    height:  35px;
+    border: none;
+    border-radius: 5px  ;
+    font-size: medium;
+    font-style: italic;
+    background-color: white;
+    position: relative;
+    bottom: 270px;
+    left:290px;
+}
